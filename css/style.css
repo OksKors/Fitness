@@ -37,6 +37,10 @@
 	background-color: #343434;
 }
 
+.text-color {
+	color: white;
+}
+
 .menu-vert {
 	display: flex;
 	flex-direction: column;
